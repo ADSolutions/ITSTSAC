@@ -5,13 +5,9 @@ Claire Francoise Formentin
 Mattia Fioraso
 Alessandro Modaffari
 Domenico Alemanno
-<<<<<<< .merge_file_a05292
 Igor Vukajlovic x
-=======
-Igor Vukajlovic
-<<<<<<< HEAD
+Petringolo David
+Yaroslav Bershadskyy
 Alberto Persano
-=======
 Filippo Menis
->>>>>>> 0f1aef5188eee58c992441e9c2ab05b245fb1959
->>>>>>> .merge_file_a09796
+Francesco Celato
