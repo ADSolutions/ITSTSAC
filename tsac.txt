@@ -2,9 +2,9 @@ Mattia Pettenuzzo x
 Riccardo Nobile
 Simone Cragnolini
 Claire Francoise Formentin
-Mattia Fioraso
+Mattia Fioraso x
 Alessandro Modaffari
-Domenico Alemanno
+Domenico Alemanno x
 Igor Vukajlovic
 David Petringolo
 Yaroslav Bershadskyy
@@ -12,3 +12,4 @@ Alberto Persano
 Filippo Menis
 Francesco Celato
 Simone Cragnolini
+Marco D'Incà
