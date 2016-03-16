@@ -4,7 +4,7 @@ Simone Cragnolini
 Claire Francoise Formentin
 Mattia Fioraso
 Alessandro Modaffari
-Domenico Alemanno
+Domenico Alemanno x
 Igor Vukajlovic
 Marco Benetti
 Alberto Persano
@@ -13,3 +13,4 @@ Petringolo David
 Yaroslav Bershadskyy
 Francesco Celato
 Simone Cragnolini
+Marco D'Incà
