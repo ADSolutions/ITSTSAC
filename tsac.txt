@@ -1,17 +1,12 @@
-<<<<<<< HEAD
 Mattia Pettenuzzo
 Riccardo Nobile x
-=======
 Mattia Pettenuzzo x
-Riccardo Nobile
->>>>>>> dac7a806ddd3531c4003ceefb3889dd18b1b9997
 Simone Cragnolini
 Claire Francoise Formentin
 Mattia Fioraso
 Alessandro Modaffari
 Domenico Alemanno
 Igor Vukajlovic
-Petringolo David
 Yaroslav Bershadskyy
 Alberto Persano
 Filippo Menis
