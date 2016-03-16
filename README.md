@@ -1,1 +1,1 @@
-..
+IGOR basta cn la tavoletta!
