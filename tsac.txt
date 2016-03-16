@@ -6,6 +6,7 @@ Mattia Fioraso
 Alessandro Modaffari
 Domenico Alemanno
 Igor Vukajlovic
+Vasyl Tymchyshyn
 <<<<<<< HEAD
 Alberto Persano
 =======
