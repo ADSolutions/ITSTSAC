@@ -13,11 +13,8 @@ Petringolo David
 Yaroslav Bershadskyy
 Alberto Persano
 Filippo Menis
-<<<<<<< HEAD
 Francesco Celato}
 
 dario MARANTA
-=======
 Francesco Celato
 Simone Cragnolini
->>>>>>> 58e1c03f09bf2ccf96618a5aff4eaf994b361352
