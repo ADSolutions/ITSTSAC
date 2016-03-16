@@ -1,5 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Claire Francoise Formentin
 =======
 Riccardo Nobile
 >>>>>>> 68d6fd8fce77c2384da41c2ab465a15d597e16e8
+=======
+Riccardo Nobile io sono stupido 
+Alessandro Modaffari
+>>>>>>> 5b7d94f7a2038c79314747f312ce13bdf572cf2d
