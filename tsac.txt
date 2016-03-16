@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-
-{Mattia Pettenuzzo
-Riccardo Nobile
-Mattia Pettenuzzo
-=======
 Mattia Pettenuzzo x
->>>>>>> 0b9ead38d803bf74e416fa71d12d44f71d101e9d
 Riccardo Nobile
 Simone Cragnolini
 Claire Francoise Formentin
@@ -17,16 +10,21 @@ Domenico Alemanno x
 Petringolo David
 =======
 Igor Vukajlovic
+<<<<<<< HEAD
 David Petringolo
 >>>>>>> 1c674baa9bd15a78fa2ef7de4c823aa5c42fdc7f
 Yaroslav Bershadskyy
+=======
+Marco Benetti
+>>>>>>> f25676725ec3cc36873d190ef4a5963e9f2bb20e
 Alberto Persano
 Filippo Menis
-Francesco Celato}
-
-dario MARANTA
+Petringolo David
+Yaroslav Bershadskyy
 Francesco Celato
+dario MARANTA
 Simone Cragnolini
+<<<<<<< HEAD
 <<<<<<< HEAD
 Marco D'Incà
 =======
@@ -35,3 +33,6 @@ Marco D'Incà
 Marco D'Incà
 >>>>>>> 0b9ead38d803bf74e416fa71d12d44f71d101e9d
 >>>>>>> 1c674baa9bd15a78fa2ef7de4c823aa5c42fdc7f
+=======
+Marco D'Incà
+>>>>>>> f25676725ec3cc36873d190ef4a5963e9f2bb20e
