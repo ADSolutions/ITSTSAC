@@ -1,6 +1,20 @@
+Alberto Persano
+Alessandro Modaffari
+Claire Francoise Formentin
+Daniele Chinazzi
+Dario Maranta
+David Petringolo
+Domenico Alemanno x
+Filippo Menis
+Francesco Celato
+Igor Vukajlovic x
+Marco Benetti
+Marco D'Incà
+Mattia Fioraso x
 Mattia Pettenuzzo x
 Riccardo Nobile
 Simone Cragnolini
+<<<<<<< HEAD
 Claire Francoise Formentin
 Mattia Fioraso
 Alessandro Modaffari
@@ -8,7 +22,6 @@ Domenico Alemanno
 Igor Vukajlovic
 Vasyl Tymchyshyn
 Petringolo David
+=======
+>>>>>>> 8704c01ebebb9b634135d92eb41a24da7a2759f4
 Yaroslav Bershadskyy
-Alberto Persano
-Filippo Menis
-Francesco Celato
