@@ -1,0 +1,15 @@
+1 - project manager
+2 - sviluppatore software
+3 - tester
+4 - marketing
+5 - commerciale
+6 - legale
+7 - help desk
+8 - grafico
+9 - analista
+10 - sistemista
+11 - controllo qualità
+12 - db admin
+13 - copywriter
+14 - CREATIVO
+15 - traduttore
