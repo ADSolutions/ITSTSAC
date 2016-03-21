@@ -1,0 +1,11 @@
+Roles and features for ProjectWork
+
+<#>-6.1-<#>
+
+Alemanno Domenico  ->  1-2-5-6-13
+Benetti Marco	   ->  2-3-11
+Chinazzi Daniele   ->  2-7-10
+Maranta Dario	   ->  2-3-9-11-13
+Petringolo David   ->  2-11-12	
+Tirindelli Lorenzo ->  2-8-14
+Vukajlovic Igor	   ->  2-12-15
