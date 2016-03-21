@@ -7,8 +7,8 @@ Alessandro Modaffari
 Domenico Alemanno
 Igor Vukajlovic
 Vasyl Tymchyshyn
-<<<<<<< HEAD
+Petringolo David
+Yaroslav Bershadskyy
 Alberto Persano
-=======
 Filippo Menis
->>>>>>> 0f1aef5188eee58c992441e9c2ab05b245fb1959
+Francesco Celato
